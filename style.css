@@ -1,0 +1,35 @@
+.container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.row {
+  padding-left: 175px;
+  background-color: grey;
+}
+
+.square-b {
+  background-color: black;
+  height: 100px;
+  width: 100px;
+  align-items: center;
+}
+
+
+.square-w {
+  background-color: white;
+  height: 100px;
+  width: 100px;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 15px;
+  padding-bottom: 20px;
+  width: auto;
+  margin-right: -15px;
+  margin-left: -15px;
+}
